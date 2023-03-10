@@ -1,5 +1,6 @@
 # This function removes duplicates from a list of lists based on the User Id field.
 
+
 def remove_duplicates(data):
     unique_data = []
     user_ids = set()
