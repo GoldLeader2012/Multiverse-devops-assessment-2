@@ -1,5 +1,6 @@
 #    This function capitalizes the first_name and last_name fields in each row of a list of lists.
 
+
 def capitalize_names(data):
     capitalized_data = []
     for row in data:
